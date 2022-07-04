@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmcpherson123
 - 👀 I’m interested in God, video game, my family, and working out
-- 🌱 I’m currently learning HTML5 and CSS
+- 🌱 I’m currently learning HTML5, CSS, and JavaScript
 - 📫 How to reach me ...
 
 <!---
